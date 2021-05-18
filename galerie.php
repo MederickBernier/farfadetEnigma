@@ -4,7 +4,7 @@ require_once "views/header.php";
 ?>
 
 <div class="row">
-    <h1>Index</h1>
+    <h1>Galerie</h1>
 </div>
 
 <?php
