@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="assets/css/materialize.min.css">
     <link rel="stylesheet" href="assets/css/site.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <title><?php echo isset($title) ? $title : "Farfadet Enigma" ?></title>
+    <title><?php echo isset($title) ? $title : "Farfadet Enigma"; ?></title>
 </head>
 <body class="grey lighten-4">
 

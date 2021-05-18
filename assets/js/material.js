@@ -1,14 +1,8 @@
 $(document).ready(function(){
     $('.sidenav').sidenav();
-    $('.carousel.carousel-slider').carousel({
-        fullWidth: true,
-        //indicators: true,
-        duration:150,
-        padding:200,
-    }, setTimeout(autoplay,4000));
+    $('.slider').slider({
+        interval:4000,
+        height:500,
+        indicators: false,
+    });
 });
-
-function autoplay(){
-    $('.carousel').carousel('next');
-    setTimeout(autoplay, 4000);
-}

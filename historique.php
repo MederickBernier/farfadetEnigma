@@ -18,7 +18,7 @@ require_once "views/header.php";
 
         <p>À la droite du farfadet, vous trouverez une cloche, emblème qui aurait servi à St-Patrick, patron des Irlandais, afin qu'il chasse les démons et les monstres représentés souvent par les  serpents sur l'île irlandaise. La fête de St-Patrick est le 17 mars, elle est soulignée par des réjouissances et défilés qui sont organisés un peu partout dans le monde où les Irlandais se sont installés. Chaque année de nombreux Québécois soulignent aussi cette fête. La culture québécoise est tissée du croisement de tous les immigrants qui sont venus s'installer au Québec, on rapporte que 40% des Québécois peuvent retracer un ancêtre irlandais.</p>
 
-        <p>Vous trouverez sur le mur Est, en face du bar, une reproduction sur murale d'un des nombreux château d'Irlande. Celui-ci s'appelle <strong>Le Château de Dunguaire</strong>, il est situé 
+        <p>Vous trouverez sur le mur Est, en face du bar, une reproduction sur murale d'un des nombreux château d'Irlande. Celui-ci s'appelle <span class="bolder">Le Château de Dunguaire</span>, il est situé 
         près de la baie de Kinvarra et de la ville de Galway dans la partie Ouest de l'Irlande. Ce château date du 16ième siècle.</p>
 
         <p>De nos jours, le trèfle est mondialement coonu comme étant le symbole de l'Irlande. On dit que
