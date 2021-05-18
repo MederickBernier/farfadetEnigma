@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title><?php echo isset($title) ? $title : "Farfadet Enigma" ?></title>
 </head>
-<body class="brown lighten-4">
+<body class="grey lighten-4">
 
 <?php
     require_once "navbar.php";

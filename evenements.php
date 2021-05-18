@@ -3,7 +3,7 @@ $title = "Farfadet";
 require_once "views/header.php";
 ?>
 
-<div class="row">
+<div class="row center-align">
     <h1>Évènements Spéciaux</h1>
 </div>
 
